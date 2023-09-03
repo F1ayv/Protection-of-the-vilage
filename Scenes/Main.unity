@@ -1451,7 +1451,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textFps: {fileID: 0}
-  textFps2: {fileID: 2073440990}
+  textFps2: {fileID: 1747806295}
   fpS: 123
 --- !u!1 &186901486
 GameObject:

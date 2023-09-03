@@ -12,6 +12,7 @@ public class CowController : Mob
     void Start()
     {
         
+        
         TimeToSecondAnimation = Random.Range(minTimerAnimHead, maxTimerAnimHead);
         Animator = gameObject.GetComponent<Animator>();
     }

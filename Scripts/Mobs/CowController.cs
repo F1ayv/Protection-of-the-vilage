@@ -11,7 +11,6 @@ public class CowController : Mob
     // Start is called before the first frame update
     void Start()
     {
-        
         TimeToSecondAnimation = Random.Range(minTimerAnimHead, maxTimerAnimHead);
         Animator = gameObject.GetComponent<Animator>();
     }
